@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  background-color: #f6f6f6;
+}
+
+.home {
+  display: flex;
+}
+
+.navbar {
+  display: flex;
+}
