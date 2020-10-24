@@ -1,0 +1,22 @@
+.primary-text-color {
+  color: #d9882a;
+}
+.primary-background-color {
+  background-color: #d9882a;
+}
+
+.abana {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.abana img {
+  width: 16rem;
+  position: relative;
+}
+
+@media (min-width: 1024px) {
+  .abana {
+    align-items: flex-start;
+  }
+}
