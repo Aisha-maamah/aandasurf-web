@@ -436,7 +436,7 @@ blockquote p {
   text-transform: uppercase;
   font-weight: 500;
   font-size: 10px;
-  color: #000
+  color: #000;
   letter-spacing: 4px;
 }
 .header-contacts li:before {
@@ -456,7 +456,7 @@ blockquote p {
   color: #000;
 }
 .left-header {
-  background: #21688A;
+  background: #21688a;
   position: fixed;
   top: 80px;
   left: 0;
@@ -505,7 +505,7 @@ blockquote p {
   line-height: 40px;
   box-sizing: border-box;
   display: inline-table;
-  background: #21688A;
+  background: #21688a;
   border: 1px solid rgba(255, 255, 255, 0.08);
   border-top: none;
   position: relative;
@@ -978,7 +978,7 @@ nav.nav-inner {
   right: 0;
   bottom: 0;
   z-index: 1;
-  background: #21688A;
+  background: #21688a;
 }
 .nhw-col.menuhol-dec-vis:before {
   transform: scale(2.5);
@@ -1012,7 +1012,7 @@ nav.nav-inner {
   z-index: 3;
 }
 .hero-conatiner {
-  background: #21688A;
+  background: #21688a;
 }
 .hc_dec {
   position: absolute;
@@ -1134,7 +1134,7 @@ nav.nav-inner {
   width: 40px;
   height: 40px;
   line-height: 40px;
-  background: #D9882A;
+  background: #d9882a;
   border-radius: 100%;
   color: #000;
   font-size: 14px;
@@ -1146,7 +1146,7 @@ nav.nav-inner {
 }
 .hsc:hover {
   transform: scale(0.9);
-  background: #21688A;
+  background: #21688a;
 }
 .hsc_pp {
   position: absolute;
@@ -1216,7 +1216,7 @@ nav.nav-inner {
   right: 0;
   bottom: -50px;
   top: -50px;
-  background:#21688A;
+  background: #21688a;
 }
 .hero-slider-wrap_pagination .swiper-pagination-bullet,
 .fcwc-wrap .swiper-pagination-bullet {
@@ -1434,7 +1434,7 @@ nav.nav-inner {
   height: 30px;
   border-radius: 6px;
   padding: 0 6px;
-  border: 1px solid #D9882A;
+  border: 1px solid #d9882a;
   box-sizing: border-box;
   position: relative;
   z-index: 10;
@@ -5524,7 +5524,7 @@ section.parallax-section .bg {
     width: 60px;
     height: 60px;
     line-height: 60px;
-    background: #D9882A;
+    background: #d9882a;
   }
   .start-btn {
     padding: 0;
