@@ -1276,22 +1276,18 @@ canvas {
   }
 }
 .fa-rotate-90 {
-  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
   -webkit-transform: rotate(90deg);
   transform: rotate(90deg);
 }
 .fa-rotate-180 {
-  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
   -webkit-transform: rotate(180deg);
   transform: rotate(180deg);
 }
 .fa-rotate-270 {
-  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
   -webkit-transform: rotate(270deg);
   transform: rotate(270deg);
 }
 .fa-flip-horizontal {
-  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
 }
@@ -1299,11 +1295,7 @@ canvas {
   -webkit-transform: scaleY(-1);
   transform: scaleY(-1);
 }
-.fa-flip-both,
-.fa-flip-horizontal.fa-flip-vertical,
-.fa-flip-vertical {
-  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
-}
+
 .fa-flip-both,
 .fa-flip-horizontal.fa-flip-vertical {
   -webkit-transform: scale(-1);
@@ -8558,7 +8550,6 @@ button.swiper-pagination-bullet {
 .swiper-scrollbar {
   border-radius: 10px;
   position: relative;
-  -ms-touch-action: none;
   background: rgba(0, 0, 0, 0.1);
 }
 .swiper-container-horizontal > .swiper-scrollbar {
@@ -8752,9 +8743,7 @@ button.swiper-pagination-bullet {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
 }
-.swiper-container-coverflow .swiper-wrapper {
-  -ms-perspective: 1200px;
-}
+
 /*! bg video */
 .background-video {
   bottom: 0;
@@ -8810,7 +8799,6 @@ source {
 }
 .lg-icon {
   font-family: "lg";
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -9703,7 +9691,6 @@ body:not(.lg-from-hash)
 .leaflet-safari .leaflet-tile-container {
   width: 1600px;
   height: 1600px;
-  -webkit-transform-origin: 0 0;
 }
 .leaflet-marker-icon,
 .leaflet-marker-shadow {

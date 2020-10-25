@@ -5313,7 +5313,7 @@ section.parallax-section .bg {
     display: none;
   }
   .hsc_pp {
-    top: 50%;
+    top: 60%;
   }
   .fix-pr-det {
     float: left;
@@ -5470,9 +5470,6 @@ section.parallax-section .bg {
   .gallery-items_fs .gallery-item.gallery-item-second,
   .gallery-item {
     width: 100%;
-  }
-  .hsc_pp {
-    top: 80%;
   }
   .blog-btn-filter {
     width: 50%;
