@@ -1973,7 +1973,7 @@ section.parallax-section .bg {
   position: fixed;
   left: 0;
   width: calc(70% - 125px);
-  background: #313131;
+  background: #21688a;
   bottom: 0;
   z-index: 20;
   -webkit-transform: translate3d(0, 0, 0);
@@ -2060,7 +2060,7 @@ section.parallax-section .bg {
   display: block;
   padding: 0 30px;
   position: relative;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(33, 104, 138, 0.5);
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 10px;
