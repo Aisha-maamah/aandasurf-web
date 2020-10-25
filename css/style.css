@@ -5300,7 +5300,6 @@ section.parallax-section .bg {
   .hero-conatiner .slider-progress-bar,
   .contacts-btn,
   .hc_dec,
-  .hsc_pp,
   .hero-corner-dec,
   .hero_entry:before,
   .hero-facts-wrap,
@@ -5312,6 +5311,9 @@ section.parallax-section .bg {
   .fixed-bottom-panel.fs-fix-bom-panel.fbp_single-car,
   .next-project-swiper-link {
     display: none;
+  }
+  .hsc_pp {
+    top: 50%;
   }
   .fix-pr-det {
     float: left;
@@ -5468,6 +5470,9 @@ section.parallax-section .bg {
   .gallery-items_fs .gallery-item.gallery-item-second,
   .gallery-item {
     width: 100%;
+  }
+  .hsc_pp {
+    top: 80%;
   }
   .blog-btn-filter {
     width: 50%;
