@@ -1973,7 +1973,7 @@ section.parallax-section .bg {
   position: fixed;
   left: 0;
   width: calc(70% - 125px);
-  background: #21688a;
+  background: #313131;
   bottom: 0;
   z-index: 20;
   -webkit-transform: translate3d(0, 0, 0);
@@ -1983,7 +1983,7 @@ section.parallax-section .bg {
   width: calc(30% + 94px);
   height: 75px;
   z-index: 20;
-  background: #313131;
+  background: #21688a;
   bottom: 0;
   right: 0;
 }
@@ -2047,7 +2047,7 @@ section.parallax-section .bg {
   display: none;
   height: 75px;
   line-height: 75px;
-  background: #3c3c3c;
+  background: #21698aa9;
   width: 220px;
 }
 .psn_button i {
@@ -2060,7 +2060,7 @@ section.parallax-section .bg {
   display: block;
   padding: 0 30px;
   position: relative;
-  color: rgba(33, 104, 138, 0.5);
+  color: rgba(255, 255, 255, 0.5);
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 10px;
@@ -2107,7 +2107,7 @@ section.parallax-section .bg {
   right: calc(30% + 47px);
   bottom: 0;
   cursor: pointer;
-  background: #3c3c3c;
+  background: #21688a;
   z-index: 500;
   -webkit-transform: translate3d(0, 0, 0);
 }
@@ -4213,7 +4213,7 @@ section.parallax-section .bg {
   width: 100%;
   justify-content: center;
   align-items: center;
-  background: #313131;
+  background: #21688a;
   padding: 70px 50px;
 }
 .cf-inner {
@@ -4291,7 +4291,7 @@ section.parallax-section .bg {
   transition: all 200ms linear;
 }
 .main_social {
-  background: #f6f6f6;
+  background: #21688a;
   position: absolute;
   right: -80px;
   bottom: 0;
@@ -5610,7 +5610,7 @@ section.parallax-section .bg {
     left: 0;
     width: 70%;
     bottom: 100%;
-    background: #313131;
+    background: #21688a;
     padding: 50px 40px 30px;
     display: none;
   }
